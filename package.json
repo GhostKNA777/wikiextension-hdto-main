@@ -1,5 +1,5 @@
 {
-  "name": "wikiextension-hdto",
+  "name": "wikiextension-1hdto",
   "version": "1.8.0",
   "description": "Nodejs library that provides an Api for obtaining the movies information from HDTO website.",
   "main": "dist/index.js",
